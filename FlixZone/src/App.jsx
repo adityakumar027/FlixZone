@@ -15,6 +15,7 @@ const App = () =>{
             <Card title = "Avatars"/>
             <Card title = "The Lion King" > < /Card>
             <Card  title = "The Lion kKing" />
+            <Card title  = "ADITYA THE GREAT"> </Card>
         </div>
         
     )
